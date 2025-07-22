@@ -21,3 +21,7 @@ cd oasis-app-template
 npm install           # o flutter pub get
 cp .env.example .env
 npm start             # o flutter run
+
+## 🧩 Design System
+
+[👉 Apri il design kit Figma] https://www.figma.com/design/vZtwuwtmkqne4NYtMrRPD2/Neumorphic-ui-kit-V4?node-id=0-1&t=Jo7W9poyRKBPJ2uH-1
